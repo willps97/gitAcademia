@@ -1,0 +1,15 @@
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicio011\Exercicio011\bin\Debug\net6.0\Exercicio011.exe
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicio011\Exercicio011\bin\Debug\net6.0\Exercicio011.deps.json
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicio011\Exercicio011\bin\Debug\net6.0\Exercicio011.runtimeconfig.json
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicio011\Exercicio011\bin\Debug\net6.0\Exercicio011.dll
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicio011\Exercicio011\bin\Debug\net6.0\Exercicio011.pdb
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicio011\Exercicio011\obj\Debug\net6.0\Exercicio011.csproj.AssemblyReference.cache
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicio011\Exercicio011\obj\Debug\net6.0\Exercicio011.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicio011\Exercicio011\obj\Debug\net6.0\Exercicio011.AssemblyInfoInputs.cache
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicio011\Exercicio011\obj\Debug\net6.0\Exercicio011.AssemblyInfo.cs
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicio011\Exercicio011\obj\Debug\net6.0\Exercicio011.csproj.CoreCompileInputs.cache
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicio011\Exercicio011\obj\Debug\net6.0\Exercicio011.dll
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicio011\Exercicio011\obj\Debug\net6.0\refint\Exercicio011.dll
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicio011\Exercicio011\obj\Debug\net6.0\Exercicio011.pdb
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicio011\Exercicio011\obj\Debug\net6.0\Exercicio011.genruntimeconfig.cache
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicio011\Exercicio011\obj\Debug\net6.0\ref\Exercicio011.dll
