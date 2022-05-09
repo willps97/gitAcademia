@@ -1,0 +1,15 @@
+D:\Academia Atos\Terca-Feira\gitAcademia\Segunda Rodada de Exercicios\Exercicio015\Exercicio015\bin\Debug\net6.0\Exercicio015.exe
+D:\Academia Atos\Terca-Feira\gitAcademia\Segunda Rodada de Exercicios\Exercicio015\Exercicio015\bin\Debug\net6.0\Exercicio015.deps.json
+D:\Academia Atos\Terca-Feira\gitAcademia\Segunda Rodada de Exercicios\Exercicio015\Exercicio015\bin\Debug\net6.0\Exercicio015.runtimeconfig.json
+D:\Academia Atos\Terca-Feira\gitAcademia\Segunda Rodada de Exercicios\Exercicio015\Exercicio015\bin\Debug\net6.0\Exercicio015.dll
+D:\Academia Atos\Terca-Feira\gitAcademia\Segunda Rodada de Exercicios\Exercicio015\Exercicio015\bin\Debug\net6.0\Exercicio015.pdb
+D:\Academia Atos\Terca-Feira\gitAcademia\Segunda Rodada de Exercicios\Exercicio015\Exercicio015\obj\Debug\net6.0\Exercicio015.csproj.AssemblyReference.cache
+D:\Academia Atos\Terca-Feira\gitAcademia\Segunda Rodada de Exercicios\Exercicio015\Exercicio015\obj\Debug\net6.0\Exercicio015.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academia Atos\Terca-Feira\gitAcademia\Segunda Rodada de Exercicios\Exercicio015\Exercicio015\obj\Debug\net6.0\Exercicio015.AssemblyInfoInputs.cache
+D:\Academia Atos\Terca-Feira\gitAcademia\Segunda Rodada de Exercicios\Exercicio015\Exercicio015\obj\Debug\net6.0\Exercicio015.AssemblyInfo.cs
+D:\Academia Atos\Terca-Feira\gitAcademia\Segunda Rodada de Exercicios\Exercicio015\Exercicio015\obj\Debug\net6.0\Exercicio015.csproj.CoreCompileInputs.cache
+D:\Academia Atos\Terca-Feira\gitAcademia\Segunda Rodada de Exercicios\Exercicio015\Exercicio015\obj\Debug\net6.0\Exercicio015.dll
+D:\Academia Atos\Terca-Feira\gitAcademia\Segunda Rodada de Exercicios\Exercicio015\Exercicio015\obj\Debug\net6.0\refint\Exercicio015.dll
+D:\Academia Atos\Terca-Feira\gitAcademia\Segunda Rodada de Exercicios\Exercicio015\Exercicio015\obj\Debug\net6.0\Exercicio015.pdb
+D:\Academia Atos\Terca-Feira\gitAcademia\Segunda Rodada de Exercicios\Exercicio015\Exercicio015\obj\Debug\net6.0\Exercicio015.genruntimeconfig.cache
+D:\Academia Atos\Terca-Feira\gitAcademia\Segunda Rodada de Exercicios\Exercicio015\Exercicio015\obj\Debug\net6.0\ref\Exercicio015.dll
