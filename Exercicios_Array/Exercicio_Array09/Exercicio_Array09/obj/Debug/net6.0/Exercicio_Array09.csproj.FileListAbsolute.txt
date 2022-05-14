@@ -1,0 +1,15 @@
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicios_Array\Exercicio_Array09\Exercicio_Array09\bin\Debug\net6.0\Exercicio_Array09.exe
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicios_Array\Exercicio_Array09\Exercicio_Array09\bin\Debug\net6.0\Exercicio_Array09.deps.json
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicios_Array\Exercicio_Array09\Exercicio_Array09\bin\Debug\net6.0\Exercicio_Array09.runtimeconfig.json
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicios_Array\Exercicio_Array09\Exercicio_Array09\bin\Debug\net6.0\Exercicio_Array09.dll
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicios_Array\Exercicio_Array09\Exercicio_Array09\bin\Debug\net6.0\Exercicio_Array09.pdb
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicios_Array\Exercicio_Array09\Exercicio_Array09\obj\Debug\net6.0\Exercicio_Array09.csproj.AssemblyReference.cache
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicios_Array\Exercicio_Array09\Exercicio_Array09\obj\Debug\net6.0\Exercicio_Array09.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicios_Array\Exercicio_Array09\Exercicio_Array09\obj\Debug\net6.0\Exercicio_Array09.AssemblyInfoInputs.cache
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicios_Array\Exercicio_Array09\Exercicio_Array09\obj\Debug\net6.0\Exercicio_Array09.AssemblyInfo.cs
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicios_Array\Exercicio_Array09\Exercicio_Array09\obj\Debug\net6.0\Exercicio_Array09.csproj.CoreCompileInputs.cache
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicios_Array\Exercicio_Array09\Exercicio_Array09\obj\Debug\net6.0\Exercicio_Array09.dll
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicios_Array\Exercicio_Array09\Exercicio_Array09\obj\Debug\net6.0\refint\Exercicio_Array09.dll
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicios_Array\Exercicio_Array09\Exercicio_Array09\obj\Debug\net6.0\Exercicio_Array09.pdb
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicios_Array\Exercicio_Array09\Exercicio_Array09\obj\Debug\net6.0\Exercicio_Array09.genruntimeconfig.cache
+D:\Academia Atos\Terca-Feira\gitAcademia\Exercicios_Array\Exercicio_Array09\Exercicio_Array09\obj\Debug\net6.0\ref\Exercicio_Array09.dll
